@@ -1,0 +1,5 @@
+{
+    "port":":7576",
+    "MongoUrl":"mongodb://localhost:27017",
+    "MongoDBName":"EmpAndUserDetails"
+}
